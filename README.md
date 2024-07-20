@@ -1,4 +1,5 @@
 <img src="Portada.png">
+
 - 👋 Hola, soy la Mtra. Diana Gómez
 - 👀 Me interesa la Matemática Educativa o Didáctica de las Matemáticas
 - 🌱 Actualmente estudio el Doctorado en Tecnología Educativa
