@@ -1,9 +1,9 @@
 <img src="Portada.png">
 
 - 👋 Hola, soy la Mtra. Diana Gómez
-- 👀 Me interesa la Matemática Educativa o Didáctica de las Matemáticas
+- 👀 Me interesa la Matemática Educativa o Didáctica de las Matemáticas, la tecnología y la metodología STEAM
 - 🌱 Actualmente estudio el Doctorado en Tecnología Educativa
-- ⚡ Fun fact: ...
+-  Estoy trabajando en formación de Docentes de Matemáticas
 
 <!---
 DianaGomezLeal/DianaGomezLeal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
